@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    {
+      "CarReg": "KBB 128C",
+      "Owner": "Louis Kilonzo",
+      "category": "private",
+      "id": 1
+    },
+    {
+      "CarReg": "KAZ 128B",
+      "Owner": "Jeff Momanyi",
+      "category": "public",
+      "id": 2
+    },
+    {
+      "CarReg": "KCC 152K",
+      "Owner": "Brian Kip-yegon",
+      "category": "company",
+      "id": 3
+    },
+    {
+      "carReg": "KvC",
+      "carOwner": "Afgfgff",
+      "vehicleCategory": "public",
+      "id": 4
+    }
+  ]
+}
